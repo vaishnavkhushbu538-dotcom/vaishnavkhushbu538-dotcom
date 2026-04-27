@@ -1,16 +1,69 @@
-## Hi there 👋
+ ⚡ Harsh Vaishnav
 
-<!--
-**vaishnavkhushbu538-dotcom/vaishnavkhushbu538-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "I don't just use AI — I build AI that works for me." 🤖
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+💻 App & Software Developer
+🤖 AI Agents Builder
+⚡ Exploring Automation & Cybersecurity
+
+---
+
+## 🚀 What I Do
+
+* 🤖 Build AI Agents
+* ⚙️ Create Automation Tools
+* 🌐 Develop Web & Software Apps
+
+---
+
+## 🧠 Tech Stack
+
+* 🐍 Python
+* ⚡ JavaScript
+* 🌐 APIs
+* 🤖 AI Tools
+
+---
+
+## 🔥 Current Focus
+
+* Building smart AI systems
+* Learning real-world automation
+* Improving coding & problem-solving
+
+---
+
+## 📊 GitHub Journey
+
+* 🚀 Started: 2026
+* 🎯 Goal: Become Pro Developer + AI Engineer
+
+---
+
+## ⚡ Hacker Mode
+
+```bash
+> Initializing Harsh.exe...
+> Loading AI modules...
+> Automation: ENABLED
+> Status: Building the Future 🚀
+```
+
+---
+
+## 📫 Connect
+
+* 🌍 India
+* 📺 YouTube → [Watch My Work](https://www.youtube.com/channel/UCBGsz7xEcD9Y974h7Y1_TEwYE)
+
+---
+
+## ⚡ Fun Fact
+
+I build things that save time and do work automatically 🤖
+
+---
