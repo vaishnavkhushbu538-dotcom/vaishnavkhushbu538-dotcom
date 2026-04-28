@@ -96,7 +96,7 @@
 
 🌍 India
 
-📺 **YouTube Channel:**
+📺 **YouTube Channel: i upload drawing videos**
 👉 https://www.youtube.com/channel/UCBGsz7xEcD9Y974h7Y1_TEw
 
 ---
