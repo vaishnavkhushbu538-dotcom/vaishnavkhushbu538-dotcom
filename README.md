@@ -1,60 +1,82 @@
 # ⚡ Harsh Vaishnav
 
-*"I don't just use AI — I build AI that works for me."* 🤖
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Builder;C%2B%2B+DSA+Learner;Future+Software+Engineer;Building+Smart+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-Student-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding-Since%202nd%20Grade-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DSA%20%2B%20AI-orange?style=for-the-badge" />
+</p>
 
 ---
 
 ## 👨‍💻 My Journey
 
-🚀 I started coding in **2nd grade**, exploring **C++** and basic **HTML**.
-At that time, I was just curious about how technology works.
+🚀 Started coding in **2nd grade** with C++ and HTML
+⚠️ Took a break in 3rd grade due to demotivation
+🔥 Made a strong comeback and worked on a **game project**
 
-⚠️ In 3rd grade, I faced demotivation from friends and stopped coding for a while.
-But that phase taught me an important lesson — *never stop because of others' opinions.*
+❌ Faced failure + lost team support
+👉 Learned: *Consistency beats early success*
 
-🔥 I made a comeback with a stronger mindset.
-Along with friends, I tried building a **game project** with a big dream of presenting it to a gaming company.
-
-❌ The project didn’t succeed, and eventually, I lost my team support.
-But instead of quitting, I learned something powerful:
-👉 *Failure is part of growth, and consistency matters more than early success.*
+💡 Now in 6th grade — focused on daily improvement
 
 ---
 
 ## 🚀 Present
 
-💡 Currently in **6th grade**, I am fully focused on improving my skills.
-I am learning **Data Structures & Algorithms (DSA)** using **C++** and building projects regularly.
-
-📈 My mission is simple:
-
-* Practice coding daily
-* Upload projects on GitHub
-* Become better every single day
+* 📘 Learning **DSA with C++**
+* 🤖 Building **AI & Automation Projects**
+* 📈 Uploading work on GitHub regularly
 
 ---
 
 ## 🎯 Goal
 
-🚀 To become a **Professional Developer & AI Engineer**
-🌍 And work at top tech companies like Google
+🚀 Become **Software Engineer + AI Engineer**
+🌍 Work at top tech companies
 
 ---
 
-## 🧠 What I Do
+## 🧠 Tech Stack
 
-🤖 Build AI Agents
-⚙️ Create Automation Tools
-🌐 Develop Web & Software Applications
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,git" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 📊 GitHub Stats
 
-🐍 Python
-⚡ JavaScript
-🌐 APIs
-🤖 AI Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavkhushbu538-dotcom&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavkhushbu538-dotcom&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavkhushbu538-dotcom&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+🚀 **TO-DO APP**
+
+* Task management app
+* Clean UI + productivity focused
+
+🧠 **DSA Practice Repo (Daily Updates)**
+
+* Daily coding problems
+* Focus on logic & optimization
+
+🤖 **AI Projects (Upcoming)**
+
+* AI Agents
+* Automation tools
 
 ---
 
@@ -70,19 +92,12 @@ I am learning **Data Structures & Algorithms (DSA)** using **C++** and building 
 
 ---
 
-## 📊 Current Focus
-
-* Building smart AI systems
-* Learning real-world automation
-* Mastering DSA with C++
-* Improving problem-solving skills
-
----
-
 ## 📫 Connect
 
 🌍 India
-📺 YouTube → Watch My Work
+
+📺 **YouTube Channel:**
+👉 https://www.youtube.com/channel/UCBGsz7xEcD9Y974h7Y1_TEw
 
 ---
 
