@@ -1,46 +1,60 @@
- ⚡ Harsh Vaishnav
+# ⚡ Harsh Vaishnav
 
-> "I don't just use AI — I build AI that works for me." 🤖
-
----
-
-## 👨‍💻 About Me
-
-💻 App & Software Developer
-🤖 AI Agents Builder
-⚡ Exploring Automation & Cybersecurity
+*"I don't just use AI — I build AI that works for me."* 🤖
 
 ---
 
-## 🚀 What I Do
+## 👨‍💻 My Journey
 
-* 🤖 Build AI Agents
-* ⚙️ Create Automation Tools
-* 🌐 Develop Web & Software Apps
+🚀 I started coding in **2nd grade**, exploring **C++** and basic **HTML**.
+At that time, I was just curious about how technology works.
 
----
+⚠️ In 3rd grade, I faced demotivation from friends and stopped coding for a while.
+But that phase taught me an important lesson — *never stop because of others' opinions.*
 
-## 🧠 Tech Stack
+🔥 I made a comeback with a stronger mindset.
+Along with friends, I tried building a **game project** with a big dream of presenting it to a gaming company.
 
-* 🐍 Python
-* ⚡ JavaScript
-* 🌐 APIs
-* 🤖 AI Tools
-
----
-
-## 🔥 Current Focus
-
-* Building smart AI systems
-* Learning real-world automation
-* Improving coding & problem-solving
+❌ The project didn’t succeed, and eventually, I lost my team support.
+But instead of quitting, I learned something powerful:
+👉 *Failure is part of growth, and consistency matters more than early success.*
 
 ---
 
-## 📊 GitHub Journey
+## 🚀 Present
 
-* 🚀 Started: 2026
-* 🎯 Goal: Become Pro Developer + AI Engineer
+💡 Currently in **6th grade**, I am fully focused on improving my skills.
+I am learning **Data Structures & Algorithms (DSA)** using **C++** and building projects regularly.
+
+📈 My mission is simple:
+
+* Practice coding daily
+* Upload projects on GitHub
+* Become better every single day
+
+---
+
+## 🎯 Goal
+
+🚀 To become a **Professional Developer & AI Engineer**
+🌍 And work at top tech companies like Google
+
+---
+
+## 🧠 What I Do
+
+🤖 Build AI Agents
+⚙️ Create Automation Tools
+🌐 Develop Web & Software Applications
+
+---
+
+## 🧰 Tech Stack
+
+🐍 Python
+⚡ JavaScript
+🌐 APIs
+🤖 AI Tools
 
 ---
 
@@ -50,20 +64,28 @@
 > Initializing Harsh.exe...
 > Loading AI modules...
 > Automation: ENABLED
+> DSA Practice: RUNNING
 > Status: Building the Future 🚀
 ```
 
 ---
 
+## 📊 Current Focus
+
+* Building smart AI systems
+* Learning real-world automation
+* Mastering DSA with C++
+* Improving problem-solving skills
+
+---
+
 ## 📫 Connect
 
-* 🌍 India
-* 📺 YouTube → [Watch My Work](https://www.youtube.com/channel/UCBGsz7xEcD9Y974h7Y1_TEwYE)
+🌍 India
+📺 YouTube → Watch My Work
 
 ---
 
 ## ⚡ Fun Fact
 
-I build things that save time and do work automatically 🤖
-
----
+I build things that save time and automate real work 🤖
